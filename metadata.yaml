@@ -1,15 +1,21 @@
 _repo: Letters-from-a-Farmer-in-Pennsylvania-to-the-Inhabitants-of-the-British-Colonies_47111
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Halsey, R.T.H.
     gutenberg_agent_id: '44139'
     url: http://www.gutenberg.org/2009/agents/44139
+covers:
+- cover_type: archival
+  image_path: 47111-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Dickinson, John
     gutenberg_agent_id: '44138'
     url: http://www.gutenberg.org/2009/agents/44138
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47111#Letters-from-a-Farmer-in-Pennsylvania-to-the-Inhabitants-of-the-British-Colonies
 gutenberg_issued: '2014-10-14'
 gutenberg_type: Text
 identifiers:
